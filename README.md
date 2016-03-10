@@ -13,3 +13,16 @@ FILTERED LS: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree
 
 MAKE IT MODULAR: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex6
 
+HTTP CLIENT: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex7
+
+HTTP COLLECT: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex8
+
+JUGGLING ASYNC: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex9
+
+TIME SERVER:  https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex10
+
+HTTP FILE SERVER: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex11
+
+HTTP UPPERCASERER: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex12
+
+HTTP JSON API SERVER: https://github.com/beeva-alejandroduret/MiSoluciondeNodeSchool/tree/Ex13 
